@@ -6,6 +6,7 @@
     "Svix",
     "tailwindcss",
     "trpc",
-    "uploadthing"
+    "uploadthing",
+    "utfs"
   ]
 }
